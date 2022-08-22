@@ -17,7 +17,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/AhanafVai/Testimonials_grid_section)
-- Live Site URL: [live site](https://manage-tailwindpage.netlify.app/)
+- Live Site URL: [live site](https://testimonial-tailwind-grids-fm.netlify.app)
 
 ## My process
 
